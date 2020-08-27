@@ -16,4 +16,4 @@ npm run build
 bash install.sh
 ```
 
-Also remember to set a secret key using the environment variable: SECRET_KEY
+Also remember to set a secret key using the environment variable: SECRET_KEY 
